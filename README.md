@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=Soft&text=Hello!&color=e0eeee&fontColor=000000)
 
 
-### Welcome my github profile 👋
+### Welcome to my GitHub profile 👋
 <br/>
 
 ####  :clipboard: Once I've Used 
