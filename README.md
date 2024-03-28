@@ -1,5 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Waving)
-![header](https://capsule-render.vercel.app/api?text=안녕하세요!)
+![header](https://capsule-render.vercel.app/api?type=Waving&text=Hello!)
 
 
 ### Hi there 👋
