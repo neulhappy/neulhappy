@@ -3,4 +3,4 @@
 
 ### Welcome my github profile 👋
 
-<img src="https://img.shields.io/badge/javaScript-F7DF1E?style=for-the-badge&logo=java&logoColor=white">
+<img src="https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=white"/>
