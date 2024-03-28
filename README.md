@@ -1,3 +1,7 @@
+![header](https://capsule-render.vercel.app/api?type=Waving)
+![header](https://capsule-render.vercel.app/api?text=안녕하세요!)
+
+
 ### Hi there 👋
 
 <!--
