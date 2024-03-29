@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=Soft&text=Hello!&color=e0eeee&fontColor=000000)
 
 ### Welcome to my GitHub profile 👋
-
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fneulhappy%2Fhit-counter&count_bg=%23000000&title_bg=%23000000&icon=adblock.svg&icon_color=%23DFF9FF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 <br/>
 
 ####  :clipboard: Once I've Used 
